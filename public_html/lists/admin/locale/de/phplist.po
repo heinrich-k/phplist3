@@ -29,7 +29,7 @@ msgstr "Anmeldeseiten"
 #: public_html/lists/admin/home.php:255,
 #: public_html/lists/admin/connect.php:571
 msgid "warning"
-msgstr "Achtung"
+msgstr "Warnung"
 
 #: public_html/lists/admin/send_core.php:964
 msgid "Path to file on server"
@@ -60,10 +60,10 @@ msgid ""
 msgstr ""
 "-----------------------------------------------------------------------------"
 "--- \n"
-"Das ist eine Benachrichtigung über eine mögliche Spam-Attacke auf Ihre "
+"Dies ist eine Benachrichtigung über eine mögliche Spam-Attacke auf Ihre "
 "phpList Anmelde-Seite.\n"
 "Die übermittelten Daten wurden unten kopiert, damit Sie prüfen können, ob "
-"das tatsächlich der Fall war.\n"
+"dies tatsächlich der Fall war.\n"
 "Die übermittelten Daten wurden aus Sicherheitsgründen in nicht-HTML-Zeichen "
 "umgewandelt.\n"
 "Wenn Sie diese Nachricht nicht mehr erhalten wollen, setzen Sie \n"
@@ -219,7 +219,7 @@ msgstr "Information"
 # Suggested in Weblate: Ergebnis
 #: public_html/lists/admin/runcommand.php:22
 msgid "Command result"
-msgstr ""
+msgstr "Ergebnis des Befehls"
 
 #: public_html/lists/admin/members.php:390,
 #: public_html/lists/admin/members.php:400,
@@ -362,7 +362,7 @@ msgstr "Abonnenten importieren"
 # Suggested in Weblate: installieren
 #: public_html/lists/admin/updatetranslation.php:70
 msgid "Install"
-msgstr ""
+msgstr "Installieren"
 
 #: public_html/lists/admin/bouncerule.php:53
 msgid "delete this rule and go to the next candidate"
@@ -419,7 +419,7 @@ msgstr "Bearbeitete Anzahl"
 # Suggested in Weblate: ungültiger Befehl
 #: public_html/lists/admin/runcommand.php:18
 msgid "Invalid command"
-msgstr ""
+msgstr "Ungültiger Befehl"
 
 #: public_html/lists/admin/connect.php:1723,
 #: public_html/lists/admin/systemstats.php:20,
@@ -466,7 +466,8 @@ msgstr "Anmeldedatum bis"
 msgid ""
 "This seems to take longer than expected, looks like there is a lot of data "
 "to work on."
-msgstr ""
+msgstr "Dies scheint l&auml;nger zu dauern als erwartet. Sieht so aus als wären viele Daten"
+"zu verarbeiten."
 
 #: public_html/databasestructure.php:43
 msgid "Subscriber ID"
@@ -496,7 +497,7 @@ msgstr "Alle externen Bilder auf Existenz überprüfen"
 #, php-format
 msgid "Subscribers who clicked on campaign with subject \"%s\", sent %s"
 msgstr ""
-"Abonnenten, die die Nachricht mit  dem Betreff \"%s\" klickten, versendeten "
+"Abonnenten, die die Nachricht mit dem Betreff \"%s\" klickten, versendeten "
 "%s"
 
 #: public_html/lists/admin/send_core.php:468
@@ -732,7 +733,7 @@ msgstr "Apr"
 
 #: public_html/lists/admin/about.php:42
 msgid "Developers"
-msgstr "Entwicklung"
+msgstr "Entwickler"
 
 #: public_html/lists/admin/defaultconfig.php:651
 msgid "CSS for HTML messages without a template"
@@ -757,7 +758,7 @@ msgstr "Es wurde keine Datei ausgew&auml;hlt."
 
 #: public_html/lists/admin/upgrade.php:384
 msgid "Documentation how to set up phpList commandline"
-msgstr ""
+msgstr "Anleitung, wie die phpList Kommandozeile aufzusetzen ist"
 
 #: public_html/lists/admin/reconcileusers.php:317,
 #: public_html/lists/admin/reconcileusers.php:322,
@@ -785,7 +786,7 @@ msgstr ""
 "Sie haben zur Zeit keine Regeln definiert. Sie können mit einem Klick auf "
 "\"Generiere Retouren-Regeln\" aus den existierenden Retouren automatische "
 "Regeln erstellen lassen. Dabei werden eine Menge Regeln erstellt, die Sie "
-"prüfen und aktivieren müssen. Es wird dennoch nicht jede Retoure treffen und "
+"prüfen und aktivieren müssen. Die Regeln werden dennoch nicht jede Retoure abfangen und "
 "es wird nötig sein, später weitere Regeln zu erstellen, wenn neue Retouren "
 "hereinkommen."
 
@@ -1024,7 +1025,7 @@ msgstr "Das hochgeladene Avatarbild ist zu groß"
 #: public_html/lists/admin/updatetlds.php:15
 #, php-format
 msgid "Now we have %d top level domains"
-msgstr ""
+msgstr "Wir haben jetzt %d Top-Level-Domains"
 
 #: public_html/lists/admin/template.php:293
 msgid "Title of this template"
@@ -1120,7 +1121,7 @@ msgstr ""
 # Suggested in Weblate: Kampagnen-ID
 #: public_html/lists/admin/actions/campaigns.php:37
 msgid "Campaign Id"
-msgstr ""
+msgstr "Kampagnen-ID"
 
 #: public_html/lists/admin/connect.php:2261,
 #: public_html/lists/admin/inc/interfacelib.php:832
@@ -1131,7 +1132,7 @@ msgstr "Zurück"
 #: public_html/lists/admin/messages.php:447
 #, php-format
 msgid "and %d more"
-msgstr ""
+msgstr "und %d weitere"
 
 #: public_html/lists/admin/bouncerules.php:120
 msgid "make active"
@@ -1423,7 +1424,7 @@ msgstr "Abonnenten suchen"
 # Suggested in Weblate: Richtiger Name
 #: public_html/lists/admin/dbcheck.php:19
 msgid "real name"
-msgstr ""
+msgstr "Echter Name"
 
 #: public_html/lists/admin/actions/subscription.php:91
 msgid "ip"
@@ -1475,7 +1476,7 @@ msgstr ""
 #: public_html/lists/admin/home.php:264,
 #: public_html/lists/admin/bouncemgt.php:16
 msgid "Process Bounces"
-msgstr "Nicht zustellbare Mails abholen"
+msgstr "Nicht zustellbare Mails prozessieren"
 
 #: public_html/lists/admin/send_core.php:925
 msgid "Maximum size of total data being sent to the server"
@@ -1535,7 +1536,7 @@ msgstr ""
 #: public_html/lists/admin/bouncerule.php:98
 #, php-format
 msgid "and more, %d in total"
-msgstr "und weitere, total %d"
+msgstr "und weitere, insgesamt %d"
 
 #: public_html/lists/admin/home.php:172
 msgid "Configuration Functions"
@@ -1602,7 +1603,7 @@ msgstr "Aktivieren und weiter"
 # Suggested in Weblate: Wählen Sie eine andere Kampagne
 #: public_html/lists/admin/msgbounces.php:62
 msgid "Select another campaign"
-msgstr ""
+msgstr "Wählen Sie eine andere Kampagne"
 
 #: public_html/databasestructure.php:312
 msgid "pagetitlehover:mclicks"
@@ -1669,7 +1670,7 @@ msgstr "Verwenden Sie die lokale Verarbeitung "
 #: public_html/lists/admin/admin.php:194,
 #: public_html/lists/admin/admin.php:200
 msgid "Create password"
-msgstr ""
+msgstr "Passwort erstellen"
 
 #: public_html/lists/admin/defaultconfig.php:567
 msgid "Default footer for sending a campaign"
@@ -1738,7 +1739,7 @@ msgstr "Abonnenten durch Kopieren-und-Einfügen importieren"
 # Suggested in Weblate: Lädt noch, bitte warten
 #: public_html/lists/admin/lib.php:2289
 msgid "Still loading, please wait"
-msgstr ""
+msgstr "Ladevorgang l/auml;ft, bitte warten"
 
 #: public_html/lists/admin/defaultconfig.php:550
 msgid "Message when subscribers request their personal location"
@@ -1760,7 +1761,7 @@ msgstr "Primärschlüssel"
 # Suggested in Weblate: Stimmt nicht überein
 #: public_html/lists/admin/admin.php:214
 msgid "Not matching"
-msgstr ""
+msgstr "Keine &Uuml;bereinstimmung"
 
 #: public_html/lists/admin/actions/processqueue.php:914
 msgid ""
@@ -1773,7 +1774,7 @@ msgstr ""
 #: public_html/lists/admin/bounce.php:229,
 #: public_html/lists/admin/spageedit.php:224
 msgid "Header"
-msgstr "Header"
+msgstr "Kopf-Bereich"
 
 #: public_html/lists/admin/actions/statsoverview.php:157,
 #: public_html/lists/admin/actions/mviews.php:115
@@ -1794,6 +1795,8 @@ msgid ""
 "It may seem to take a while, but there is a lot of data to crunch<br/>if you "
 "have a lot of subscribers and campaigns"
 msgstr ""
+"Es könnte einige Zeit andauern, denn es gibt eine Menge Daten zu verarbeiten<br/>Falls Sie "
+"viele Abonnenten und Kampagnen haben"
 
 #: public_html/lists/admin/actions/processqueue.php:984
 msgid "queue processing time has exceeded max processing time "
@@ -1830,7 +1833,7 @@ msgstr "Standard"
 # Suggested in Weblate: Diese Seite funktioniert nur von der Befehlszeile aus
 #: public_html/lists/admin/updatetlds.php:5
 msgid "This page only works from commandline"
-msgstr ""
+msgstr "Diese Seite funktioniert nur von der Befehlszeile aus"
 
 #: public_html/lists/admin/initialise.php:91
 msgid "Creating tables"
@@ -1950,7 +1953,7 @@ msgstr "Automatisch als unbestätigt markiert"
 #: public_html/lists/admin/attributes.php:442,
 #: public_html/lists/admin/spageedit.php:340
 msgid "Is this attribute required?"
-msgstr "Das Attribut ist ein Pflichtfeld "
+msgstr "Ist dieses Attribut ein Pflichtfeld?"
 
 #: public_html/lists/admin/defaultconfig.php:128
 msgid "Default for 'From:' in a campaign"
@@ -1979,7 +1982,7 @@ msgstr "Zurück zu: Administrator verwalten"
 # Suggested in Weblate: Mitglieder, die auf der schwarzen Liste stehen
 #: public_html/lists/admin/list.php:43
 msgid "Blacklisted members"
-msgstr ""
+msgstr "Abonnenten auf Blacklist"
 
 #: public_html/lists/admin/messages.php:621
 msgid "delete this campaign"
@@ -2051,7 +2054,7 @@ msgstr ""
 #, php-format
 msgid "Failed to enable plugin (%s), dependencies failed"
 msgstr ""
-"Aktivierung von '%s'  fehlgeschlagen, Abhängigkeiten konten nicht aufgelöst "
+"Aktivierung von '%s' fehlgeschlagen, Abhängigkeiten konten nicht aufgelöst "
 "werden"
 
 #: public_html/lists/admin/userclicks.php:75
@@ -2231,7 +2234,7 @@ msgstr "Wann der Eintrag geändert wurde"
 
 #: public_html/databasestructure.php:191
 msgid "hash value of URL"
-msgstr ""
+msgstr "Hashwert der URL"
 
 #: public_html/lists/admin/defaultconfig.php:312
 msgid "URL where subscribers have to confirm their subscription"
@@ -2288,7 +2291,7 @@ msgstr "Nachrichten in der Warteschlange versenden"
 # Suggested in Weblate: Beim Verarbeiten der Nachrichtenwarteschlange traten die folgenden Ereignisse auf:
 #: public_html/lists/admin/actions/processqueue.php:385
 msgid "The following events occured while processing the message queue:"
-msgstr ""
+msgstr "Beim Verarbeiten der Nachrichtenwarteschlange traten die folgenden Ereignisse auf:"
 
 # Suggested in Weblate: Es wurden noch keine Attribute definiert
 #: public_html/lists/admin/adminattributes.php:84,
@@ -2304,7 +2307,7 @@ msgstr "Maximieren"
 # Suggested in Weblate: Allgemein
 #: public_html/lists/admin/subscribelib2.php:786
 msgid "General"
-msgstr ""
+msgstr "Allgemein"
 
 #: public_html/databasestructure.php:202
 msgid "Related bounce"
@@ -2360,7 +2363,7 @@ msgstr "Abmelden"
 #: public_html/lists/admin/dbcheck.php:49,
 #: public_html/lists/admin/dbcheck.php:52
 msgid "exist"
-msgstr ""
+msgstr "existiert"
 
 #: public_html/lists/admin/home.php:271,
 #: public_html/lists/admin/bouncemgt.php:11
@@ -2411,7 +2414,7 @@ msgstr "Ihr Passwort wurde erfolgreich geändert!"
 # Suggested in Weblate: Wählen Sie, wie das Passwort erstellt werden soll
 #: public_html/lists/admin/admin.php:191
 msgid "Choose how to set password"
-msgstr ""
+msgstr "Wählen Sie, wie das Passwort festgelegt werden soll"
 
 #: public_html/lists/admin/actions/import2.php:539,
 #: public_html/lists/admin/actions/import1.php:246,
@@ -2448,13 +2451,13 @@ msgstr "Versende in Stapeln von %d Nachrichten"
 #: public_html/lists/admin/processbounces.php:413
 #, php-format
 msgid "Processing first %d bounces"
-msgstr ""
+msgstr "Verarbeite die ersten %d Retouren"
 
 # Suggested in Weblate: NIcht in der Lage das Update zu finden
 # Suggested in Weblate: nicht möglich das Update zu finden
 #: public_html/lists/admin/plugins.php:227
 msgid "Unable to find update"
-msgstr ""
+msgstr "Update kann nicht gefunden werden"
 
 #: public_html/lists/admin/uclicks.php:140
 msgid "view subscribers who clicked"
@@ -2519,7 +2522,7 @@ msgstr "Bitte lassen Sie dieses Fenster geöffnet."
 
 #: public_html/databasestructure.php:134
 msgid "Editable?"
-msgstr "bearbeitbar?"
+msgstr "Bearbeitbar?"
 
 #: public_html/lists/admin/actions/import1.php:227,
 #: public_html/lists/admin/import3.php:511
@@ -2537,7 +2540,7 @@ msgstr "Aber es gibt nicht genügend Speicherplatz für diese Umwandlung"
 # Suggested in Weblate: Super-Admin
 #: public_html/lists/admin/admins.php:112
 msgid "Super Admin"
-msgstr ""
+msgstr "Super-Admin"
 
 #: public_html/databasestructure.php:157
 msgid "When the password change request was made"
@@ -2670,7 +2673,7 @@ msgstr "Unbestätigter Empfänger"
 # Suggested in Weblate: Bestätigte Mitglieder, die nicht auf der schwarzen Liste stehen
 #: public_html/lists/admin/list.php:39
 msgid "Confirmed and not blacklisted members"
-msgstr ""
+msgstr "Bestätigte Mitglieder, die nicht blacklisted sind"
 
 #: public_html/lists/admin/message.php:185
 msgid "Except when they were also member of these lists"
@@ -2831,8 +2834,8 @@ msgstr "Empfangsdatum"
 #, php-format
 msgid "Test output<br/>If the output looks ok, click %s to submit for real"
 msgstr ""
-"Test-Durchlauf<br/>Wenn die Ausgabe korrekt ist, dann klicken Sie %s f&uuml;"
-"r einen echten Import."
+"Test-Durchlauf<br/>Wenn die Ausgabe korrekt ist, dann klicken Sie %s f&uuml;r"
+" einen echten Import."
 
 #: public_html/databasestructure.php:51
 msgid "tofield"
@@ -2877,7 +2880,7 @@ msgstr "%d ungültige E-Mail-Adressen"
 # Suggested in Weblate: Das Plugin muss manuell upgedated werden
 #: public_html/lists/admin/plugins.php:236
 msgid "Plugin must be updated manually"
-msgstr ""
+msgstr "Das Plugin muss manuell upgedated werden"
 
 #: public_html/lists/admin/configure.php:40
 msgid "Reset to default"
