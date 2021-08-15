@@ -3421,7 +3421,7 @@ msgstr "Best&auml;tigungsanfrage erneut senden an"
 # Suggested in Weblate: Wählen Sie eine Kampagne
 #: public_html/lists/admin/actions/msgbounces.php:58
 msgid "Choose a campaign"
-msgstr ""
+msgstr "Wählen Sie eine Kampagne"
 
 #: public_html/lists/admin/processqueue.php:72
 msgid "Processing queued campaigns"
@@ -3496,7 +3496,7 @@ msgstr "Wandle %s von %s in %s um"
 # Suggested in Weblate: Ankündigungen
 #: public_html/lists/admin/about.php:7
 msgid "Announcements"
-msgstr ""
+msgstr "Ank&uuml;ndigungen"
 
 #: public_html/lists/admin/import4.php:358,
 #: public_html/lists/admin/reconcileusers.php:410,
@@ -3576,7 +3576,7 @@ msgstr "Fehler beim Abrufen der URL"
 #: public_html/lists/admin/statsoverview.php:165,
 #: public_html/lists/admin/actions/statsoverview.php:146
 msgid "Unique Clicks"
-msgstr ""
+msgstr "Einzigartige Klicks"
 
 #: public_html/lists/admin/editattributes.php:51,
 #: public_html/lists/admin/eventlog.php:86,
@@ -3587,7 +3587,7 @@ msgstr "Alle löschen"
 # Suggested in Weblate: Das ist keine gültige E-Mail-Adresse
 #: public_html/lists/admin/actions/addemail.php:14
 msgid "That is not a valid email address"
-msgstr ""
+msgstr "Dies ist keine gültige E-Mail-Adresse"
 
 # Suggested in Weblate: Es sind Fehler aufgetreten. Die Vorlage wurde NICHT gespeichert!
 #: public_html/lists/admin/template.php:214
@@ -3740,7 +3740,7 @@ msgstr "Verf&uuml;gbare Nachrichten"
 # Suggested in Weblate: Register
 #: public_html/lists/admin/dbcheck.php:84
 msgid "index"
-msgstr ""
+msgstr "Index"
 
 #: public_html/databasestructure.php:329
 msgid "pagetitle:statsoverview"
@@ -3765,7 +3765,7 @@ msgstr "Unbekannter Fehler"
 # Suggested in Weblate: Niemand
 #: public_html/lists/admin/phpListAdminAuthentication.php:137
 msgid "Nobody"
-msgstr ""
+msgstr "Niemand"
 
 #: public_html/databasestructure.php:242
 msgid "pagetitlehover:export"
@@ -3823,6 +3823,7 @@ msgid ""
 "This batch will be %s emails, because in the last %s seconds %s emails were "
 "sent"
 msgstr ""
+"Diese Charge wirf %s E-Mails umfassen, da in den vergangenen %s Sekunden %s E-Mails versendet worden sind"
 
 #: public_html/lists/admin/spage.php:72,
 #: public_html/lists/admin/user.php:271,
@@ -3864,7 +3865,7 @@ msgstr ""
 # Suggested in Weblate: Support-Community
 #: public_html/lists/admin/community.php:33
 msgid "Support community"
-msgstr ""
+msgstr "Support-Community"
 
 #: public_html/lists/admin/bounces.php:133
 msgid "are you sure you want to delete all bounces older than 2 months"
@@ -3940,6 +3941,7 @@ msgid ""
 "Giving a UUID to your subscribers and campaigns. If you have a lot of them, "
 "this may take a while."
 msgstr ""
+"Weise Ihren Abonnenten und Kampagnen eine UUID zu. Abhängig von der Anzahl kann dies etwas dauern."
 
 #: public_html/lists/admin/admins.php:26,
 #: public_html/lists/admin/admins.php:74,
@@ -3998,7 +4000,7 @@ msgstr "Dies Nachricht gibt es nicht"
 # Suggested in Weblate: lädt noch
 #: public_html/lists/admin/lib.php:2283
 msgid "Still loading"
-msgstr ""
+msgstr "Lädt noch"
 
 #: public_html/lists/admin/about.php:97
 msgid "Translations"
@@ -4035,7 +4037,7 @@ msgstr "Weitere Administratoren importieren"
 # Suggested in Weblate: Verarbeitungsbericht der Nachrichtenwarteschlange
 #: public_html/lists/admin/actions/processqueue.php:362
 msgid "Message queue processing report"
-msgstr ""
+msgstr "Verarbeitungsbericht der Nachrichtenwarteschlange"
 
 #: public_html/databasestructure.php:61
 msgid "Number of seconds to requeue the message"
