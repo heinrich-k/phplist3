@@ -6916,7 +6916,7 @@ msgstr "%d Nachrichten bereit zum versenden."
 #: public_html/lists/admin/actions/processqueue.php:718
 #, fuzzy, php-format
 msgid "to view the progress of this campaign, go to %s://%s"
-msgstr "Details zur laufenden Verarbeitung finden Sie hier: http://%s"
+msgstr "Details zur laufenden Verarbeitung finden Sie hier: %s://%s"
 
 #: public_html/lists/admin/actions/domainbounces.php:79
 #, fuzzy
